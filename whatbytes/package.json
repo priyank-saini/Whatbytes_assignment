@@ -15,7 +15,7 @@
     "recharts": "^2.1.9",
     "react-modal": "^3.14.3",
     "@mui/x-charts": "^6.0.0",
-    "react-minimal-pie-chart": "^8.1.0"
+    "react-minimal-pie-chart": "^8.1.0",
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.7.1"
   },
